@@ -65,7 +65,7 @@
     "url-loader": "^0.5.7",
     "webpack": "^2.2.0",
     "xo": "^0.18.0",
-    "yargs": "^7.0.1"
+    "yargs": "^7.1.0"
   },
   "xo": {
     "space": true,
